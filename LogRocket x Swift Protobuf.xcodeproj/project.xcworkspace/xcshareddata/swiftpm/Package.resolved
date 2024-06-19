@@ -1,0 +1,23 @@
+{
+  "originHash" : "9a2c2d758711250f8a87603a013ad455bf42e1bcff1e569c7354565f05ad0af4",
+  "pins" : [
+    {
+      "identity" : "logrocket-ios-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/LogRocket/logrocket-ios-swift-package",
+      "state" : {
+        "revision" : "96a4f83ceaa9840230330626dc283db527b5a7a4",
+        "version" : "1.33.6"
+      }
+    },
+    {
+      "identity" : "swift-protobuf",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-protobuf.git",
+      "state" : {
+        "revision" : "de2ea229974849f88617b3254722cbaffa86459f"
+      }
+    }
+  ],
+  "version" : 3
+}
